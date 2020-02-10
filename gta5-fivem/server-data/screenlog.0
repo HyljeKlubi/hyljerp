@@ -1,0 +1,260 @@
+Creating script environments for _cfx_internal
+Found new resource es_admin2 in /home/zap349669/g211359/gta5-fivem/server-data/resources//es_admin2
+Found new resource vMenu in /home/zap349669/g211359/gta5-fivem/server-data/resources//vMenu
+Found new resource PvP in /home/zap349669/g211359/gta5-fivem/server-data/resources//PvP
+Found new resource esplugin_mysql in /home/zap349669/g211359/gta5-fivem/server-data/resources//esplugin_mysql
+Found new resource mysql-async in /home/zap349669/g211359/gta5-fivem/server-data/resources//mysql-async
+Found new resource es_ui in /home/zap349669/g211359/gta5-fivem/server-data/resources//es_ui
+Found new resource essentialmode in /home/zap349669/g211359/gta5-fivem/server-data/resources//essentialmode
+Found new resource warmenu in /home/zap349669/g211359/gta5-fivem/server-data/resources//warmenu
+Found new resource webadmin in /home/zap349669/g211359/gta5-fivem/alpine/opt/cfx-server/citizen//system_resources//webadmin
+Found new resource monitor in /home/zap349669/g211359/gta5-fivem/alpine/opt/cfx-server/citizen//system_resources//monitor
+Found new resource basic-gamemode in /home/zap349669/g211359/gta5-fivem/server-data/resources//[gamemodes]/basic-gamemode
+Found new resource chat in /home/zap349669/g211359/gta5-fivem/server-data/resources//[gameplay]/chat
+Found new resource chat-theme-gtao in /home/zap349669/g211359/gta5-fivem/server-data/resources//[gameplay]/chat-theme-gtao
+Found new resource playernames in /home/zap349669/g211359/gta5-fivem/server-data/resources//[gameplay]/playernames
+Found new resource esx_dmvschool in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_dmvschool
+Found new resource esx_phone in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_phone
+Found new resource esx_society in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_society
+Found new resource esx_addoninventory in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_addoninventory
+Found new resource esx_datastore in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_datastore
+Found new resource esx_menu_dialog in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_menu_dialog
+Found new resource cron in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/cron
+Found new resource esx_joblisting in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_joblisting
+Found new resource esx_boilerplate in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_boilerplate
+Found new resource esx_sit in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_sit
+Found new resource esx_optionalneeds in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_optionalneeds
+Found new resource esx_boat in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_boat
+Found new resource esx_taxijob in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_taxijob
+Found new resource esx_addonaccount in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_addonaccount
+Found new resource esx_clotheshop in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_clotheshop
+Found new resource esx_barbershop in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_barbershop
+Found new resource esx_status in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_status
+Found new resource esx_lscustom in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_lscustom
+Found new resource esx_migrate in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_migrate
+Found new resource esx_ambulancejob in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_ambulancejob
+Found new resource esx_whitelist in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_whitelist
+Found new resource esx_whitelistEnhanced in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_whitelistEnhanced
+Found new resource esx_atm in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_atm
+Found new resource esx_voice in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_voice
+Found new resource esx_jobs in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_jobs
+Found new resource instance in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/instance
+Found new resource esx_service in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_service
+Found new resource skinchanger in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/skinchanger
+Found new resource esx_billing in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_billing
+Found new resource esx_realestateagentjob in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_realestateagentjob
+Found new resource esx_drugs in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_drugs
+Found new resource es_camera in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/es_camera
+Found new resource esx_license in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_license
+Found new resource esx_policejob in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_policejob
+Found new resource esx_menu_default in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_menu_default
+Found new resource esx_bankerjob in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_bankerjob
+Found new resource esx_garage in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_garage
+Found new resource esx_holdup in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_holdup
+Found new resource esx_shops in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_shops
+Found new resource esx_mechanicjob in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_mechanicjob
+Found new resource esx_identity in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_identity
+Found new resource async in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/async
+Found new resource esx_vehicleshop in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_vehicleshop
+Found new resource esx_basicneeds in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_basicneeds
+Found new resource esx_rpchat in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_rpchat
+Found new resource esx_weaponshop in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_weaponshop
+Found new resource esx_accessories in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_accessories
+Found new resource esx_animations in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_animations
+Found new resource esx_cruisecontrol in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_cruisecontrol
+Found new resource es_extended in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/es_extended
+Found new resource esx_property in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_property
+Found new resource esx_menu_list in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_menu_list
+Found new resource esx_skin in /home/zap349669/g211359/gta5-fivem/server-data/resources//[esx]/esx_skin
+Found new resource spawnmanager in /home/zap349669/g211359/gta5-fivem/server-data/resources//[managers]/spawnmanager
+Found new resource mapmanager in /home/zap349669/g211359/gta5-fivem/server-data/resources//[managers]/mapmanager
+Found new resource fivem in /home/zap349669/g211359/gta5-fivem/server-data/resources//[test]/fivem
+Found new resource example-loadscreen in /home/zap349669/g211359/gta5-fivem/server-data/resources//[test]/example-loadscreen
+Found new resource runcode in /home/zap349669/g211359/gta5-fivem/server-data/resources//[system]/runcode
+Found new resource rconlog in /home/zap349669/g211359/gta5-fivem/server-data/resources//[system]/rconlog
+Found new resource sessionmanager in /home/zap349669/g211359/gta5-fivem/server-data/resources//[system]/sessionmanager
+Found new resource sessionmanager-rdr3 in /home/zap349669/g211359/gta5-fivem/server-data/resources//[system]/sessionmanager-rdr3
+Found new resource hardcap in /home/zap349669/g211359/gta5-fivem/server-data/resources//[system]/hardcap
+Found new resource baseevents in /home/zap349669/g211359/gta5-fivem/server-data/resources//[system]/baseevents
+Found new resource scoreboard in /home/zap349669/g211359/gta5-fivem/server-data/resources//[system]/scoreboard
+Found new resource redm-map-one in /home/zap349669/g211359/gta5-fivem/server-data/resources//[gamemodes]/[maps]/redm-map-one
+Found new resource fivem-map-hipster in /home/zap349669/g211359/gta5-fivem/server-data/resources//[gamemodes]/[maps]/fivem-map-hipster
+Found new resource fivem-map-skater in /home/zap349669/g211359/gta5-fivem/server-data/resources//[gamemodes]/[maps]/fivem-map-skater
+Found new resource webpack in /home/zap349669/g211359/gta5-fivem/server-data/resources//[system]/[builders]/webpack
+Found new resource yarn in /home/zap349669/g211359/gta5-fivem/server-data/resources//[system]/[builders]/yarn
+Creating script environments for sessionmanager
+Started resource sessionmanager
+Creating script environments for webadmin
+Instantiated instance of script FxWebAdmin.BaseServer.
+Instantiated instance of script FxWebAdmin.HttpServer+HttpServerScript.
+Started resource webadmin
+Creating script environments for mapmanager
+Started resource mapmanager
+Creating script environments for chat
+Started resource chat
+Started resource spawnmanager
+Started gametype Freeroam
+Started resource basic-gamemode
+Started resource fivem
+Creating script environments for hardcap
+Started resource hardcap
+Started resource PvP
+Creating script environments for vMenu
+Instantiated instance of script vMenuServer.BanManager.
+Instantiated instance of script vMenuServer.MainServer.
+Started resource vMenu
+Creating script environments for mysql-async
+Instantiated instance of script MySQLAsync.MySQLThread.
+Instantiated instance of script MySQLAsync.MySQLAsync.
+Started resource mysql-async
+Creating script environments for essentialmode
+Instantiated instance of script SQLite.Main.
+Started resource essentialmode
+Creating script environments for esplugin_mysql
+Started resource esplugin_mysql
+Creating script environments for es_admin2
+Started resource es_admin2
+Creating script environments for async
+Started resource async
+Creating script environments for cron
+Started resource cron
+Creating script environments for es_extended
+Started resource es_extended
+Creating script environments for instance
+Started resource instance
+Creating script environments for es_camera
+Started resource es_camera
+Started resource skinchanger
+Creating script environments for esx_skin
+Started resource esx_skin
+Creating script environments for esx_datastore
+Started resource esx_datastore
+Creating script environments for esx_accessories
+Started resource esx_accessories
+Creating script environments for esx_addonaccount
+Started resource esx_addonaccount
+Creating script environments for esx_addoninventory
+Started resource esx_addoninventory
+Creating script environments for esx_society
+Started resource esx_society
+Creating script environments for esx_phone
+Started resource esx_phone
+Creating script environments for esx_billing
+Started resource esx_billing
+Creating script environments for esx_policejob
+Started resource esx_policejob
+Creating script environments for esx_vehicleshop
+Started resource esx_vehicleshop
+Creating script environments for esx_ambulancejob
+Started resource esx_ambulancejob
+Started resource esx_animations
+Creating script environments for esx_atm
+Started resource esx_atm
+Creating script environments for esx_bankerjob
+Started resource esx_bankerjob
+Creating script environments for esx_barbershop
+Started resource esx_barbershop
+Creating script environments for esx_status
+Started resource esx_status
+Creating script environments for esx_basicneeds
+Started resource esx_basicneeds
+Creating script environments for esx_boat
+Started resource esx_boat
+Creating script environments for esx_boilerplate
+Started resource esx_boilerplate
+Creating script environments for esx_clotheshop
+Started resource esx_clotheshop
+Started resource esx_cruisecontrol
+Creating script environments for esx_license
+Started resource esx_license
+Creating script environments for esx_dmvschool
+Started resource esx_dmvschool
+Creating script environments for esx_drugs
+Started resource esx_drugs
+Creating script environments for esx_garage
+Started resource esx_garage
+Creating script environments for esx_holdup
+Started resource esx_holdup
+Creating script environments for esx_identity
+Started resource esx_identity
+Creating script environments for esx_joblisting
+Started resource esx_joblisting
+Creating script environments for esx_jobs
+Started resource esx_jobs
+Creating script environments for esx_lscustom
+Started resource esx_lscustom
+Creating script environments for esx_mechanicjob
+Started resource esx_mechanicjob
+Started resource esx_menu_default
+Started resource esx_menu_dialog
+Started resource esx_menu_list
+Creating script environments for esx_migrate
+Started resource esx_migrate
+Creating script environments for esx_optionalneeds
+Started resource esx_optionalneeds
+Creating script environments for esx_property
+Started resource esx_property
+Creating script environments for esx_realestateagentjob
+Started resource esx_realestateagentjob
+Creating script environments for esx_rpchat
+Started resource esx_rpchat
+Creating script environments for esx_service
+Started resource esx_service
+Creating script environments for esx_shops
+Started resource esx_shops
+Creating script environments for esx_sit
+Started resource esx_sit
+Creating script environments for esx_taxijob
+Started resource esx_taxijob
+Started resource esx_voice
+Creating script environments for esx_weaponshop
+Started resource esx_weaponshop
+Started resource es_ui
+Creating script environments for rconlog
+Started resource rconlog
+Started resource scoreboard
+Stopping resource sessionmanager
+Creating script environments for sessionmanager
+Started resource sessionmanager
+Authenticating server license key...
+Server license key authentication succeeded. Welcome!
+cfx> Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Started map fivem-map-skater
+Started resource fivem-map-skater
+Performing version check against: https://api.kanersps.pw/em/version?version=6.2.2&uuid=3e8a3260-729e-4874-77e8-93ca89445116
+
+[93mAuthenticating with Nucleus...[0m
+server thread hitch warning: timer interval of 2504 milliseconds
+[91m        fff                          
+[91m  cccc ff   xx  xx     rr rr    eee  
+[91mcc     ffff   xx       rrr  r ee   e 
+[91mcc     ff     xx   ... rr     eeeee  
+[91m ccccc ff   xx  xx ... rr      eeeee 
+                                     [0m
+[32mAuthenticated with cfx.re Nucleus: [0mhttps://deterministic-bubble-2348rw.users.cfx.re/
+
+[EssentialMode] Current version: 6.2.2
+[EssentialMode] Updater version: 6.2.2
+
+[EssentialMode] Everything is nice and updated!
+
+[91mAdvertisement: [0mWant to have EssentialMode pre-installed on a good and affordable server host? Go to the following link: https://zap-hosting.com/EssentialMode
+server thread hitch warning: timer interval of 1578 milliseconds
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+[SAVED] All players
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+[SAVED] All players
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+[SAVED] All players
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+[SAVED] All players
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
